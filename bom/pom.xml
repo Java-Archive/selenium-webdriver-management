@@ -14,6 +14,11 @@
 
   <dependencyManagement>
     <dependencies>
+      <!--<dependency>-->
+        <!--<groupId>org.rapidpm</groupId>-->
+        <!--<artifactId>rapidpm-selenium-webdriver-management-impl</artifactId>-->
+        <!--<version>01.00.00-RPM</version>-->
+      <!--</dependency>-->
       <dependency>
         <groupId>org.rapidpm</groupId>
         <artifactId>rapidpm-junit5-commons</artifactId>
