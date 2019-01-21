@@ -22,7 +22,7 @@
   <parent>
     <artifactId>rapidpm-selenium-webdriver-management</artifactId>
     <groupId>org.rapidpm</groupId>
-    <version>01.00.01-RPM-SNAPSHOT</version>
+    <version>01.00.01-RPM</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
@@ -34,7 +34,7 @@
       <!--<dependency>-->
         <!--<groupId>org.rapidpm</groupId>-->
         <!--<artifactId>rapidpm-selenium-webdriver-management-impl</artifactId>-->
-        <!--<version>01.00.01-RPM-SNAPSHOT</version>-->
+        <!--<version>01.00.01-RPM</version>-->
       <!--</dependency>-->
       <dependency>
         <groupId>org.rapidpm</groupId>
